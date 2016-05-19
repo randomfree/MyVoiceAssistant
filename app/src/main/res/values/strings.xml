@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyVoiceAssistant</string>
+    <string name="pushing_mode">长按模式</string>
+    <string name="pushonice_mode">单击模式</string>
+</resources>
